@@ -1,0 +1,28 @@
+{
+  "title": "Tension_Go: code for 'AI Teaches Humans to Handle Complexity in the Game of Go'",
+  "description": "Code to compute network-based strategic tension in the game of Go from SGF game records, using KataGo ownership maps to build interaction networks between stone groups and contested zones. The game records analyzed in the study are available at https://doi.org/10.5281/zenodo.23727474. If you use this code, please cite the preprint arXiv:2610.33323.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Cerioli, Adamo", "affiliation": "University of Parma"},
+    {"name": "Servedio, Vito D. P.", "affiliation": "Complexity Science Hub"},
+    {"name": "Cerioli, Gabriele", "affiliation": "University of Trieste"},
+    {"name": "Villani, Antonio", "affiliation": "University of Parma"},
+    {"name": "Metta, Carlo", "affiliation": "Center for Nanotechnology Innovation (NEST-IIT)"}
+  ],
+  "keywords": ["Go", "strategic tension", "complex networks", "human-AI interaction", "KataGo"],
+  "related_identifiers": [
+    {
+      "identifier": "10.48550/arXiv.2610.33323",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "10.5281/zenodo.23727474",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "dataset"
+    }
+  ]
+}
