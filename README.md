@@ -1,7 +1,7 @@
 # Tension_Go
 
 [![arXiv](https://img.shields.io/badge/arXiv-2610.33323-b31b1b.svg)](https://arxiv.org/abs/2610.33323)
-[![DOI](https://zenodo.org/badge/DOI/ZENODO_DOI.svg)](https://doi.org/ZENODO_DOI)
+[![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23727474.svg)](https://doi.org/10.5281/zenodo.23727474)
 
 Core codebase for evaluating strategic tension in the game of Go, accompanying the preprint:
 
@@ -27,7 +27,7 @@ By coupling KataGo's policy and territory ownership predictions with spatial clu
 
 The SGF records of all games analyzed in the study are archived on Zenodo:
 
-**[https://doi.org/ZENODO_DOI](https://doi.org/ZENODO_DOI)**
+**[https://doi.org/10.5281/zenodo.23727474](https://doi.org/10.5281/zenodo.23727474)**
 
 The Zenodo record contains the exact sets of games used in each analysis, so that every figure in the paper can be reproduced with the code in this repository.
 
